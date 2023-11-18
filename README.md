@@ -14,15 +14,15 @@ Ticket Creation: Create, view, and manage tickets with essential details and sta
 
 ## Getting Started
 
-### Clone the repository
-git clone https://github.com/your-username/ticketing-system-cpp.git
+### 1. Clone the repository
+Use: git clone https://github.com/your-username/ticketing-system-cpp.git
 
-### Navigate to the project directory
-cd ticketing-system-cpp
+### 2. Navigate to the project directory
+Use: cd ticketing-system-cpp
 
-### Build the project
+### 3. Build the project
 
-### Run the application
+### 4. Run the application
 
 ## Usage
 Create a new Ticket object from the Ticket class and run the program.
