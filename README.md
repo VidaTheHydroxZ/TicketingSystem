@@ -25,8 +25,8 @@ Use: cd ticketing-system-cpp
 ### 4. Run the application
 
 ## Usage
-Create a new Ticket object from the Ticket class and run the program.
-cpp
+Run the program and use UI to Buy a Ticket for wanted price!
+You can check the Ticket Barcode and ID and also the Ticket expiration timer.
 
 ## License
 No Licensing.
