@@ -25,8 +25,9 @@ Use: cd ticketing-system-cpp
 ### 4. Run the application
 
 ## Usage
-Run the program and use UI to Buy a Ticket for wanted price!
-You can check the Ticket Barcode and ID and also the Ticket expiration timer.
+Run the program and use UI to Buy a Ticket for wanted price!<br />
+<br />
+You can also check the Ticket Barcode and ID and also the Ticket expiration timer.
 
 ## License
 No Licensing.
